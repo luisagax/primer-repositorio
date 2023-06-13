@@ -1,4 +1,4 @@
-#Aprendiendo Git desde la terminal
+# Aprendiendo Git desde la terminal
 
 --
 **:sparkles: luisagax :sparkles:**
